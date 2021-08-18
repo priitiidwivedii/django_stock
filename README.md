@@ -1,1 +1,2 @@
 "# django_stock" 
+"# stock" 
